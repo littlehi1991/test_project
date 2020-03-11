@@ -1,5 +1,4 @@
 <?php
-    echo 'hi xiao hi';
+    echo '安安';
 
 
-    
